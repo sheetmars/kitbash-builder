@@ -1,0 +1,30 @@
+# Model files and archives never belong in this repo
+*.stl
+*.STL
+*.obj
+*.3mf
+*.lys
+*.chitubox
+*.ctb
+*.zip
+*.7z
+*.rar
+*.tar
+*.tgz
+*.tar.gz
+
+# Review workbooks, generated tables and run output
+*.xlsx
+*.csv
+_EXTRACTION_REPORT.txt
+bundles/
+Bundles/
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+._*
+
+# Generated locally by `kitbash.py rules`
+CLASSIFICATION_RULES.md
