@@ -1,5 +1,7 @@
 # Kitbash Builder
 
+**Project write-up:** [sheetmars.github.io/projects/kitbash-builder](https://sheetmars.github.io/projects/kitbash-builder/)
+
 A local parts library and kitbash builder for 3D-printable tabletop miniatures.
 
 Point it at a folder of STL files and it works out what each file is (head, torso, arm, weapon, base…), which armour pattern or body type it belongs to, and how big it really is in millimetres. A browser interface then lets you mix and match parts from different kits, previews them in 3D, rescales them to fit one another, and exports the result as a named bundle of STLs ready for your slicer.
